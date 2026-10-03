@@ -1,2 +1,2 @@
-# IBM-Project
-Team-Kavya, Sadiq, Asad, Sajjad
+# IBM - Project (BM 380)
+# Team - Kavya Punjabi, Mohammed Sadiq Siddique, Asad Usman, Mohd Sajjad Ansari
