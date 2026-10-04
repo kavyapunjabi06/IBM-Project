@@ -73,13 +73,6 @@ The script produces a 2×2 figure (Plots 1–4) and one separate chart (Plot 5)[
 
 ---
 
-## Tools Used
-- Microsoft Excel[cite: 3]
-- Python (`pandas`, `matplotlib`)[cite: 3]
-- Power BI / BI dashboard tool[cite: 3]
-
----
-
 ## Key Takeaways
 - Establish the overall churn rate first, then segment it by geography, age, and balance[cite: 3].
 - Focus retention effort on the segments with the highest churn and highest balances[cite: 3].
