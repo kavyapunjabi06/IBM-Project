@@ -32,6 +32,7 @@ The goal is to find the baseline churn rate, spot high-risk customer segments, a
 ├── churn_analysis.xlsx                    # Excel: churn by category
 ├── churn_dashboard.pbix                   # BI dashboard
 ├── Churn_Dashboard_Report.pdf             # Executive Power BI analysis report
+├── Churn_Python_Charts_Report.pdf         # Pythons charts use case and application
 └── README.md
 
 ```
